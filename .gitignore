@@ -1,2 +1,4 @@
 **/*.o
 objs
+/cmake-build-debug/
+/.idea/
